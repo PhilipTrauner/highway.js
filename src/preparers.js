@@ -8,7 +8,7 @@ import {
   BYTES_TYPE
 } from './types.js'
 
-import { UnsupportedTypeError } from 'errors.js'
+import { UnsupportedTypeError } from './errors.js'
 
 const STRING = 0
 const INTEGER = 1
